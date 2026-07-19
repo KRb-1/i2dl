@@ -14,7 +14,7 @@ Introduction to deep learning
 | `exercise_08` | Autoencoders | Implements and trains an autoencoder for image reconstruction. The exercise also investigates compressed latent representations learned from the input data. |
 | `exercise_09` | Convolutional Neural Networks | Designs and trains a convolutional neural network for facial keypoint detection, with a focus on CNN architecture, regularization, and optimization. |
 | `exercise_10` | Semantic Segmentation | Implements a semantic segmentation network for pixel-wise image classification. The exercise covers segmentation architectures, transfer learning, training, and evaluation. |
-| `exercise_11` | Transformers — Part 1 | Implements the main components of a Transformer, including token embeddings, positional encoding, scaled dot-product attention, and multi-head attention. |
+| `exercise_11` | Transformers | Implements the main components of a Transformer, including token embeddings, positional encoding, scaled dot-product attention, and multi-head attention. |
 
 ## Bonus Exercise Results
 | Bonus Exercise | Best Score |
@@ -29,12 +29,10 @@ Introduction to deep learning
 | Exercise 10 | 92.94 |
 | Exercise 11 | 40.00 |
 
-## Course Reference
+## Reference
 
 This repository is based on:
 
 - **Course:** Introduction to Deep Learning — I2DL (IN2346)
 - **Institution:** Technical University of Munich
-- **Lecturer:** Prof. Dr. Matthias Nießner
-- **Semester:** Summer Semester 2026
 - **Official course website:** [https://niessner.github.io/I2DL/](https://niessner.github.io/I2DL/)
